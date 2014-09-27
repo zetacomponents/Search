@@ -1,4 +1,4 @@
-1.1 - Friday 19 September 2014
+1.1 - Saturday 27 September 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Fixed: Syntax error in tutorial example.
@@ -8,10 +8,6 @@
 - Fixed: Updated copyright dates in NOTICE files.
 - Remove custom test runner.
 - Fix autoloading with composer
-
-1.0.9 - [RELEASEDATE]
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 - Fixed issue #16127: Searching with numeric values.
 - Fixed issue #16195: Errors when searching with Solr.
 - Fixed issue #16350: Wrong spelled HTTP method.
